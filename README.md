@@ -21,8 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:https://nermenelefky.github.io/fylo/index.html)
 
 ### Built with
 
@@ -38,5 +37,5 @@ Users should be able to:
 ## Author
 
 - Website - NermenElefky
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - @NermenElefky (https://www.frontendmentor.io/profile/NermenElefky)
 
